@@ -1,0 +1,10 @@
+/Users/andrew/RiderProjects/FunctionProgramming/FirstChapter/bin/Debug/netcoreapp2.0/FirstChapter.deps.json
+/Users/andrew/RiderProjects/FunctionProgramming/FirstChapter/bin/Debug/netcoreapp2.0/FirstChapter.runtimeconfig.json
+/Users/andrew/RiderProjects/FunctionProgramming/FirstChapter/bin/Debug/netcoreapp2.0/FirstChapter.runtimeconfig.dev.json
+/Users/andrew/RiderProjects/FunctionProgramming/FirstChapter/bin/Debug/netcoreapp2.0/FirstChapter.dll
+/Users/andrew/RiderProjects/FunctionProgramming/FirstChapter/bin/Debug/netcoreapp2.0/FirstChapter.pdb
+/Users/andrew/RiderProjects/FunctionProgramming/FirstChapter/obj/Debug/netcoreapp2.0/FirstChapter.csproj.CoreCompileInputs.cache
+/Users/andrew/RiderProjects/FunctionProgramming/FirstChapter/obj/Debug/netcoreapp2.0/FirstChapter.AssemblyInfoInputs.cache
+/Users/andrew/RiderProjects/FunctionProgramming/FirstChapter/obj/Debug/netcoreapp2.0/FirstChapter.AssemblyInfo.cs
+/Users/andrew/RiderProjects/FunctionProgramming/FirstChapter/obj/Debug/netcoreapp2.0/FirstChapter.dll
+/Users/andrew/RiderProjects/FunctionProgramming/FirstChapter/obj/Debug/netcoreapp2.0/FirstChapter.pdb
